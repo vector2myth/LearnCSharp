@@ -1,0 +1,15 @@
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\bin\Debug\net8.0\ConsoleAppListSort.exe
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\bin\Debug\net8.0\ConsoleAppListSort.deps.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\bin\Debug\net8.0\ConsoleAppListSort.runtimeconfig.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\bin\Debug\net8.0\ConsoleAppListSort.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\bin\Debug\net8.0\ConsoleAppListSort.pdb
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.AssemblyInfoInputs.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.AssemblyInfo.cs
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.csproj.CoreCompileInputs.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.sourcelink.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\refint\ConsoleAppListSort.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.pdb
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ConsoleAppListSort.genruntimeconfig.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppListSort\obj\Debug\net8.0\ref\ConsoleAppListSort.dll

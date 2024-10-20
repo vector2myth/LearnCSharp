@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d62a2bf6bd7272e5df79dddfef6d6636cfe4babb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4b682a2ee77fc85154c4f860486b994111b91ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
