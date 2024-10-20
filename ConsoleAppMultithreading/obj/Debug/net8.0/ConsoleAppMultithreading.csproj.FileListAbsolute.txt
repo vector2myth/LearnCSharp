@@ -1,0 +1,15 @@
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\bin\Debug\net8.0\ConsoleAppMultithreading.exe
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\bin\Debug\net8.0\ConsoleAppMultithreading.deps.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\bin\Debug\net8.0\ConsoleAppMultithreading.runtimeconfig.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\bin\Debug\net8.0\ConsoleAppMultithreading.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\bin\Debug\net8.0\ConsoleAppMultithreading.pdb
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.AssemblyInfoInputs.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.AssemblyInfo.cs
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.sourcelink.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\refint\ConsoleAppMultithreading.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.pdb
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ConsoleAppMultithreading.genruntimeconfig.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppMultithreading\obj\Debug\net8.0\ref\ConsoleAppMultithreading.dll
