@@ -1,0 +1,15 @@
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\bin\Debug\net8.0\ConsoleAppLambda.exe
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\bin\Debug\net8.0\ConsoleAppLambda.deps.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\bin\Debug\net8.0\ConsoleAppLambda.runtimeconfig.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\bin\Debug\net8.0\ConsoleAppLambda.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\bin\Debug\net8.0\ConsoleAppLambda.pdb
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.AssemblyInfoInputs.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.AssemblyInfo.cs
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.csproj.CoreCompileInputs.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.sourcelink.json
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\refint\ConsoleAppLambda.dll
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.pdb
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ConsoleAppLambda.genruntimeconfig.cache
+C:\Users\wug\CSWorkspace\LearnCSharp\ConsoleAppLambda\obj\Debug\net8.0\ref\ConsoleAppLambda.dll
